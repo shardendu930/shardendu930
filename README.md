@@ -95,7 +95,7 @@ AI-powered Interview Preparation Platform built using
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=shardendu930&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=shardendu930&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -105,7 +105,7 @@ AI-powered Interview Preparation Platform built using
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shardendu930&theme=tokyonight&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shardendu930&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </p>
 
