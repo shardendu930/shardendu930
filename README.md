@@ -111,7 +111,7 @@ Goal:          Backend Software Engineer
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/Shardendukumar/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
