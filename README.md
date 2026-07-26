@@ -88,18 +88,6 @@ AI-powered recruitment platform featuring resume parsing, candidate matching, an
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shardendu930&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shardendu930&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
