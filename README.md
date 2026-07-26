@@ -4,7 +4,7 @@
 
 ### 🚀 Full Stack Developer | Backend Developer | MERN Stack | AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;Building+AI+Applications;Node.js+%7C+React+%7C+MongoDB;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Backend+Developer;Full+Stack+Developer;Building+AI-Powered+Applications;Node.js+%7C+React+%7C+MongoDB;Always+Learning+New+Technologies"/>
 
 </div>
 
@@ -71,7 +71,44 @@ Career Goal:
 # 🚀 Featured Projects
 
 ## 🎯 CareerPilot AI
+
 AI-powered Interview Preparation & Resume Coaching Platform built using the MERN Stack and Large Language Models (LLMs).
+
+---
+
+## 💬 ConnectX
+
+Real-time messaging platform built with React, Node.js, Socket.IO, JWT Authentication, and MongoDB.
+
+---
+
+## 🤖 TalentMatch AI
+
+AI-powered recruitment platform featuring resume parsing, candidate matching, and role-based authentication.
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=shardendu930&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shardendu930&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shardendu930&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
 
 # 🌱 Currently Learning
 
@@ -86,7 +123,7 @@ AI-powered Interview Preparation & Resume Coaching Platform built using the MERN
 
 # 📫 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="https://www.linkedin.com/in/shardendukumar/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
@@ -106,9 +143,9 @@ AI-powered Interview Preparation & Resume Coaching Platform built using the MERN
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile! ⭐
+### ⭐ Thanks for visiting my profile ⭐
 
-*"Code. Learn. Build. Improve. Repeat."*
+*"Code • Learn • Build • Improve • Repeat."*
 
 </div>
 
