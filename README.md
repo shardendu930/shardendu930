@@ -1,81 +1,145 @@
 <h1 align="center">Hi 👋, I'm Shardendu Kumar</h1>
-<h3 align="center">Full Stack Developer | Backend Developer | MERN Stack | AI Enthusiast</h3>
+
+<h3 align="center">
+Full Stack Developer • Backend Developer • MERN Stack • AI Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;Building+AI-Powered+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+Developer;Building+AI-Powered+Applications;Node.js+%7C+React+%7C+MongoDB;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🎓 MCA Graduate
-- 💻 Full Stack Developer specializing in the MERN Stack
-- 🚀 Currently building **CareerPilot AI**
-- 🌱 Currently learning **Redis, Docker, Kafka, Kubernetes & System Design**
-- 🎯 Goal: Become a Backend Software Engineer
+🎓 MCA Graduate
 
----
+💻 Full Stack Developer specializing in Backend Development
 
-## 🛠 Tech Stack
+🤖 Currently Building **CareerPilot AI**
 
-### Languages
+🌱 Currently Learning
 
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge)
+- Redis
+- Docker
+- Kafka
+- Kubernetes
+- System Design
 
-### Frontend
+🎯 Goal
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=for-the-badge&logo=tailwindcss)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-![VSCode](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+Become a Backend Software Engineer at a Product-Based Company.
 
 ---
 
-## 🚀 Featured Projects
+# 🛠 Tech Stack
 
-### 🎯 CareerPilot AI
+## Languages
 
-AI-powered Interview Preparation & Resume Coaching Platform built using MERN Stack and LLMs.
+<p>
+<img src="https://skillicons.dev/icons?i=js,cpp,c" />
+</p>
 
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 🚀 Featured Projects
 
-![](https://github-readme-stats.vercel.app/api?username=shardendu930&show_icons=true&theme=tokyonight)
+## 🎯 CareerPilot AI
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shardendu930&theme=tokyonight)
+AI-powered Interview Preparation Platform built using
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shardendu930&layout=compact&theme=tokyonight)
+- MERN Stack
+- Large Language Models
+- Resume Analysis
+- Interview Generation
+- Progress Analytics
 
 ---
 
-## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shardendukumar/)
+# 📊 GitHub Statistics
 
-📧 **Email:** ohmsingh100@gmail.com
+<p align="center">
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shardendu930&show_icons=true&theme=tokyonight&hide_border=true"/>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shardendu930&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shardendu930&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=shardendu930&theme=tokyonight&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Shardendu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shardendu930&theme=tokyo-night)](https://github.com/shardendu930)
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/shardendukumar/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ohmsingh100@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/shardendu930">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> *"Consistency beats intensity. Build every day, improve every day."*
 
 
 
