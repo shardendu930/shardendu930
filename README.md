@@ -21,13 +21,6 @@ Location:      Muzaffarpur, Bihar, India
 Current Focus:
   - Building CareerPilot AI
 
-Currently Learning:
-  - Redis
-  - Docker
-  - Kafka
-  - Kubernetes
-  - System Design
-
 Career Goal:
   Backend Software Engineer
 ```
