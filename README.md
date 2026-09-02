@@ -75,9 +75,9 @@ Real-time messaging platform built with React, Node.js, Socket.IO, JWT Authentic
 
 ---
 
-## 🤖 TalentMatch AI
+## 📦↗️ OrderScale
 
-AI-powered recruitment platform featuring resume parsing, candidate matching, and role-based authentication.
+E-commerce admin panel handling 100,000+ orders with server-side pagination, virtualized rendering, and AI-powered natural-language search — React, Node.js, Express, MongoDB.
 
 ---
 
